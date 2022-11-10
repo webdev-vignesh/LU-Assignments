@@ -9,11 +9,11 @@ int main() {
     
     if(a%2 == 0)
     {
-        cout<<"Entered number "<<a<< " is even";
+        cout<<"Entered number "<<a<< " is Even";
     }
     else
     {
-        cout<<"Entered number is odd";
+        cout<<"Entered number "<<a<<" is Odd";
     }
 
     return 0;
