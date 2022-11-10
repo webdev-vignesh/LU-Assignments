@@ -19,4 +19,6 @@ int main()
 	
 	cout<<"After swapping:"<<endl;
 	cout<<"a = "<<",b = "<<b;
+	
+	return 0;
 }
