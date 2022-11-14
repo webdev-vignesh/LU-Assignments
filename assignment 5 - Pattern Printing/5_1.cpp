@@ -17,10 +17,6 @@ int main() {
         {
             cout<<"*";
         }
-        for(int l=1; l<=n-1; l++)
-        {
-            cout<<" ";
-        }
         cout<<endl;
         a = a+2;
     }
